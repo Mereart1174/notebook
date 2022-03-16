@@ -10,8 +10,8 @@
 |大佬|NLP，GNN，Algorithm，Framework|https://blog.csdn.net/u012526436?type=blog|CSDN|22.1||
 |研一|Python Packages，Math|https://blog.csdn.net/qq_34430163?type=blog|-|20.9|-|
 |大佬|BD，ML，RS，Algorithm，CV，Tools|https://blog.csdn.net/weixin_31866177?type=collect|-|22.2|GM|
-|厦大数据实验室|ML，Linux等大全|https://blog.csdn.net/weixin_36474809/article/details/88884137?spm=1001.2014.3001.5502|-|22.1|GM||
-
+|厦大数据实验室|ML，Linux等大全|https://blog.csdn.net/weixin_36474809/article/details/88884137?spm=1001.2014.3001.5502|-|22.1|GM|
+|ML研究生|ML环境配置，tkinter，各种研究生用到的资源|https://www.mlzhilu.com/archives|-|22.2|-|
 
 
 
