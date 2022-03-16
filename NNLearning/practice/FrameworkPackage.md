@@ -7,10 +7,10 @@ NN Framework
 6. Mxnet
 
 Gary对kaggle中框架的评级：
-5 Pytorch
-4 Ketas
-3 Mxnet
-1 Tensorflow
+* 5 Pytorch
+* 4 Ketas
+* 3 Mxnet
+* 1 Tensorflow
 
 Gary推荐的Packages
 NN Packages
