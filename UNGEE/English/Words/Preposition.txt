@@ -1,0 +1,70 @@
+preposition	prep.
+
+基础介词
+	简单介词
+on	面的接触
+in	一定范围内
+to	对象间的朝向连接
+of
+about
+by
+for
+as	作为同
+with
+at
+like	像
+up
+down
+behind
+over
+through
+before
+between
+since
+beyond
+under
+above
+including
+except
+off
+toward
+during
+past
+til
+until
+opposite
+near
+but
+among
+along
+against
+across
+around
+round
+next
+despite
+next
+than
+
+
+	合成介词
+into
+onto
+inside
+outside
+beside
+besides
+without
+within
+throught
+
+其它类型介词
+	重叠介词
+from among
+from behind
+until after
+at about
+after about
+
+
+
