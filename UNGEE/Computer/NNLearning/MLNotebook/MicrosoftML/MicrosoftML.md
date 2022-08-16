@@ -1,17 +1,17 @@
 ### 基本工作原理
-* 输入input：$x$
-* 权重weights：$w$
-* 偏移bias：使$wx$到达临界值$y，y=wx+b$
-* 求和sum：$Z=\displaystyle\sum_{i=1}^m(w_i\cdot x_i)+b或Z=W\cdot X+b$
-* 激活activation：$A=\sigma(Z)$
+* 输入input： $x$
+* 权重weights： $w$
+* 偏移bias：使 $wx$ 到达临界值 $y，y=wx+b$
+* 求和sum： $Z=\displaystyle\sum_{i=1}^m(w_i\cdot x_i)+b或Z=W\cdot X+b$
+* 激活activation： $A=\sigma(Z)$
   * Tip:
   * 一个神经元可多个输入
   * 只能一个b和输出
   * 可以同时输出给多个神经元
   * w与输入数量一致
   * w和b要设初始值，训练过程中会不断被修改
-  * 允许A=Z，但$\sigma()$必有
-  * 一层的所有神经元$\sigma()$必须一致
+  * 允许A=Z，但 $\sigma()$ 必有
+  * 一层的所有神经元 $\sigma()$ 必须一致
 * 回归/拟合（Regression/Fitting）：给x输出y，y与样本数据形成的曲线的距离最小
 * 分类
 ### 梯度下降
@@ -29,7 +29,7 @@
 * 把损失值反向对应的传给NN的每一层，让每一层根据损失值反向调整权重
   
 ### 线性反向传播
-* 链式法则：因式分解，偏导，传递性，$\Delta z = n\cdot{} \Delta x$
+* 链式法则：因式分解，偏导，传递性， $\Delta z = n\cdot{} \Delta x$
 
 （存疑）
 归一化：
